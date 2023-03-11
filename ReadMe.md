@@ -12,11 +12,11 @@ This repository contains various practice exercises and notes that I use to impr
 
 To use this repository, simply clone or download it to your local machine and open the files in your code editor. You can then read the notes, review the code examples, and complete the exercises.
 
-Feel free to modify the code examples and exercises to suit your learning needs. You can also add your own exercises and notes to the repository as you progress in your learning.
+Feel free to modify the code examples and exercises to suit your learning needs. You can also add your own exercises and notes to the repository as you progress in your learning. If you have a suggestion for how to improve an exercise or you have one of your own and you would like to contribute then by all means open a pull request. his can help us both practice GitHub and improve our skills.
 
 ## Collaboration
 
-As this repository is intended for personal practice, it is not open for contributions from other developers. However, if you have suggestions or feedback on any of the exercises or notes, you can use pull requests to communicate with me. This can help us both practice GitHub and improve our skills.
+As this repository is intended for personal practice, it is not open for contributions from other developers. However, if you have suggestions or feedback on any of the exercises or notes, you can use pull requests to communicate with me. See the Paragraph above. 
 
 ## Resources
 
