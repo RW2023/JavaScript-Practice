@@ -8,7 +8,7 @@ To get started with the JavaScript Gym, you will need to have a basic understand
 
 ## Usage
 
-This repository contains various practice exercises and notes that I use to improve my JavaScript skills. You can find them in the `exercises` directory.
+This repository contains various practice exercises and notes that I use to improve my JavaScript skills. You can find them in the `exercises` readMe.
 
 To use this repository, simply clone or download it to your local machine and open the files in your code editor. You can then read the notes, review the code examples, and complete the exercises.
 
