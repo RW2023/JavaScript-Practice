@@ -47,19 +47,8 @@ let data = {
   },
 };
 
-//loop over categories
-//my attempt 
-// for (let i=0; i=categories.length; i++)//this bracket hurts the most i think other than the infinite loop
-// console.log(i, categories[i]);//nailed this one
-// console.table(i, categories[i]);//obsessed with tables ever since i discovered them :)
-//check to see if it worked
-//nope. error 30 undefined. wait... infinite loop!!!  ask the cloudbot.
-//solution
-for (let i = 0; i <= categories.length; i++) {
-  console.log(i, categories[i])//printed something! lol
-  // console.table({ index: i, category: categories[i] });//pretty off on this line. stab in the dark though and tables are annoying sometimes
-}
-
+categories.unshift("shadow")
+console.log(categories);
 
 
 
